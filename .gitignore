@@ -1,3 +1,5 @@
 .idea/
 target/
 Cucumber_Selenium.iml
+*.eml
+*.userlibraries
